@@ -1,5 +1,5 @@
 # vin-nou-pale
-Vinn nou pale c'est une application creer dans but d'envoyer des messages en toute discretion et les utilisateurs pourront discuter en toutes discretion sans qu'il y ait fuite de donnee et surtout elle ne necessite pas une grande consommation des donnees.
+Vinn nou pale c'est une application creer dans but d'envoyer des messages en toute discretion et les utilisateurs pourront discuter sans qu'il y ait fuite de donnee et surtout elle ne necessite pas une grande consommation des donnees.
 
 #Membres du groupe
 Luc Josias John Patriluca
@@ -12,10 +12,10 @@ Petiote Lionel
 
 # Must have
 - [x] L'utilisateur peut créer un compte et se connecter afin d'accéder à l'application
-- [ ] L’utilisateur peut signaler un incident de façon anonyme(vol, agression, cambriolage, etc.) en ajoutant la date et l'heure, une description courte, une photo/vidéo, et       la localisation.
-- [ ] L’utilisateur peut recevoir une notification lorsqu’un incident survient.
-- [ ] L’utilisateur peut visualiser les alertes sur une carte interactive, avec des codes couleur pour distinguer les types d'incidents.
-- [ ] L’utilisateur peut consulter une liste des alertes récentes envoyées par d’autres membres de la communauté.
+- [x] L'utilisateur peut changer de profit a sa guise
+- [x] L’utilisateur peut recevoir peut recevoir seulement des messages textes
+- [x] L’utilisateur peut envoyer des invitations d'ami(es) a d'autres utilisateurs 
+- [x] L’utilisateur peut consulter une liste d'ami(es)
 - [ ] L’utilisateur peut accéder à une page contenant les informations importantes (numéros de police, hôpital, ambulance, protection civile, etc.).
 - [ ] L’utilisateur peut lire une section conseils de sécurité pour apprendre à réduire les risques.
 - [x] L’utilisateur peut lire une section decrivant l'application
