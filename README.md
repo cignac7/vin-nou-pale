@@ -6,7 +6,7 @@ Luc Josias John Patriluca
 Erase Peterson Deretz 
 Henry Darssen Hussein
 Cignac Benito
-Petiote Lionel
+PETIOTE Lionel
 
 #User Stories
 
